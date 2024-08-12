@@ -1,5 +1,10 @@
-d 'DEA': Data envelopment analysis
+d 'fmlogit': Fitting a estimate fractional multinomial logit models by quasi maximum likelihood (QMLE) Use fmlogit With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f dfmlogit.ado
+f fmlogit.ado
+f fmlogit.hlp
+f fmlogit_d2.ado
+f fmlogit_ex.ado
+f fmlogit_lf.ado
+f fmlogit_p.ado
+f fmlogit_postestimation.hlp
