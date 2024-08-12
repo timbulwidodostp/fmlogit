@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p fmlogit Fitting a estimate fractional multinomial logit models by quasi maximum likelihood (QMLE) Use fmlogit With STATA 18
