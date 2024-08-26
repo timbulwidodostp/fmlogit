@@ -1,6 +1,8 @@
 # fmlogit
 Fitting a estimate fractional multinomial logit models by quasi maximum likelihood (QMLE) Use fmlogit With STATA 18
 
+https://www.youtube.com/watch?v=4vYjSA44M9I
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
